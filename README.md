@@ -123,3 +123,14 @@ Of the seven (7) ASX-listed stocks chosen, <b>BRN (BrainChip)</b> recorded the g
 Conversely, <b>TNR (Torian Resources)</b> recorded the lowest percentage performance, <b>neither gaining or decreasing in value</b> over the same time period. 
 
 All hail BRN.
+
+## References
+
+Yahoo! Finance, 4DS Memory historical data, https://au.finance.yahoo.com/quote/4DS.AX/?p=4DS.AX
+Yahoo! Finance, BrainChip Holdings historical data, https://au.finance.yahoo.com/quote/BRN.AX?p=BRN.AX
+Yahoo! Finance, Digital Wine Ventures historical data, https://au.finance.yahoo.com/quote/DW8.AX/?p=DW8.AX
+Yahoo! Finance, Imugene Limited historical data, https://au.finance.yahoo.com/quote/IMU.AX/?p=IMU.AX
+Yahoo! Finance, Nova Minerals historical data, https://au.finance.yahoo.com/quote/NVA.AX/?p=NVA.AX
+Yahoo! Finance, Race Oncology historical data, https://au.finance.yahoo.com/quote/RAC.AX/?p=RAC.AX
+Yahoo! Finance, Torian Resources historical data, https://au.finance.yahoo.com/quote/TNR.AX/?p=TNR.AX
+
