@@ -98,14 +98,22 @@ A comparative analysis of each ticker's percentage performance over the time per
   <img src="https://github.com/mnperic/asx-profit-loss/raw/main/Images/ticker_percentage.png" alt="ticker_percentage"/>
 </p>
 
-* 4DS <b>+25%</b>
-* BRN <b>+1,660%</b>
-* DW8 <b>+533%</b>
-* IMU <b>+664%</b>
-* NVA <b>+55%</b>
-* RAC <b>+817%</b>
-* TNR <b>0%</b>
+Which may be summarised in tabular form.
 
+<div align="center">
+ 
+Ticker |  % Increase   
+:---:  |  :---: 
+ 4DS | +25
+ BRN | +1,660%
+ DW8 | +533%
+ IMU | +664%
+ NVA | +55%
+ RAC | +817%
+ TNR | 0%
+
+</div align>
+ 
 ## Summary
 
 As evident in the data visualisations, all ASX-listed stocks chosen as part of the study have experienced (and continue to experience) high-level price volatility. 
