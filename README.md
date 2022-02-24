@@ -19,7 +19,7 @@
 An analysis of each ticker's share price over the time period resulted in the following visualisations.
  
  <p align="center">
-  <img src="https://github.com/mnperic/asx-profit-loss/raw/main/Images/4DS.png" alt="4DS"/>
+  <img src="https://github.com/mnperic/asx-profit-loss/blob/main/Images/4DS.png" alt="4DS"/>
 </p>
 
  <p align="center">
