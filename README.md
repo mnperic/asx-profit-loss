@@ -112,6 +112,6 @@ As evident in the data visualisations, all ASX-listed stocks chosen as part of t
 
 Of the seven (7) ASX-listed stocks chosen, <b>BRN (BrainChip)</b> recorded the greatest percentage performance increase, <b>gaining 1,660%</b> on its initial share price over the 28 May 2020 to 23 February 2022 time period. 
 
-Conversely, <b>TNR (Torian Resources)</b> recorded the lowest percentage performance, neither gaining or decreasing in value over the same time period. 
+Conversely, <b>TNR (Torian Resources)</b> recorded the lowest percentage performance, <b>neither gaining or decreasing in value</b> over the same time period. 
 
 All hail BRN.
