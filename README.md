@@ -5,16 +5,16 @@
  
  The premise of this project was to analyse and provide an overview of stock price, volume and percentage performance of ASX-listed stocks from the tech, retail, healthcare and mining sectors.
  
- The time period of 28 May 2020 to 23 February 2021 was chosen arbitrarily, although considering this, the time period was also chosen due to the popularity of retail-investors investing in chosen stocks. 
+ The time period of <b>28 May 2020 to 23 February 2021</b> was chosen arbitrarily, although considering this, the time period was also chosen due to the popularity of retail-investors investing in chosen stocks. 
  
 ## Analysis - Price Performance
  
  The list of stocks in the project title were chosen due to their recent popularlity amongst investors, and comprised of the following ASX sectors; 
  
-* 4DS (4DS Memory), BRN (BrainChip) (Technology)
-* DW8 (Digital Wine Ventures) (Retail)
-* IMU (Imugene Limited), RAC (Race Oncology) (Healthcare), and
-* NVA (Nova Minerals), TNR (Torian Resources) (Mining)
+* <b>4DS (4DS Memory)</b>, <b>BRN (BrainChip)</b> <i>(Technology)</i>
+* <b>DW8 (Digital Wine Ventures)</b> <i>(Retail)</i>
+* <b>IMU (Imugene Limited)</b>, <b>RAC (Race Oncology)</b> <i>(Healthcare)</i>, and
+* <b>NVA (Nova Minerals)</b>, <b>TNR (Torian Resources)</b> <i>(Mining)</i>
 
 An analysis of each ticker's share price over the time period resulted in the following visualisations.
  
@@ -97,3 +97,21 @@ A comparative analysis of each ticker's percentage performance over the time per
 <p align="center">
   <img src="https://github.com/mnperic/asx-profit-loss/raw/main/Images/ticker_percentage.png" alt="ticker_percentage"/>
 </p>
+
+* 4DS <b>+25%</b>
+* BRN <b>+1,660%</b>
+* DW8 <b>+533%</b>
+* IMU <b>+664%</b>
+* NVA <b>+55%</b>
+* RAC <b>+817%</b>
+* TNR <b>0%</b>
+
+## Summary
+
+As evident in the data visualisations, all ASX-listed stocks chosen as part of the study have experienced (and continue to experience) high-level price volatility. 
+
+Of the seven (7) ASX-listed stocks chosen, <b>BRN (BrainChip)</b> recorded the greatest percentage performance increase, <b>gaining 1,660%</b> on its initial share price over the 28 May 2020 to 23 February 2022 time period. 
+
+Conversely, <b>TNR (Torian Resources)</b> recorded the lowest percentage performance, neither gaining or decreasing in value over the same time period. 
+
+All hail BRN.
