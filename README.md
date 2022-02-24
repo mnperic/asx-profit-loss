@@ -1,11 +1,11 @@
 # Analysis of stock price and percentage performance of ASX-listed stocks
- An analysis of ASX-listed stock performance between the periods of 28 May 2020 and 23 February 2021.
+ An analysis of ASX-listed stock performance between the periods of 28 May 2020 and 23 February 2022.
  
 ## Overview
  
  The premise of this project was to analyse and provide an overview of stock price, volume and percentage performance of ASX-listed stocks from the tech, retail, healthcare and mining sectors.
  
- The time period of <b>28 May 2020 to 23 February 2021</b> was chosen arbitrarily, although considering this, the time period was also chosen due to the popularity of retail-investors investing in chosen stocks. 
+ The time period of <b>28 May 2020 to 23 February 2022</b> was chosen arbitrarily, although considering this, the time period was also chosen due to the popularity of retail-investors investing in chosen stocks. 
  
 ## Analysis - Price Performance
  
