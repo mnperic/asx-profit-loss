@@ -5,7 +5,7 @@
  
  The premise of this project was to analyse and provide an overview of stock price, volume and percentage performance of ASX-listed stocks from the tech, retail, healthcare and mining sectors.
  
- The time period of 28 May 2020 to 23 February 2021 was chosen arbitrarily, although considering this the time period was also chosen due to the popularity of retail-investors investing in chosen stocks. 
+ The time period of 28 May 2020 to 23 February 2021 was chosen arbitrarily, although considering this, the time period was also chosen due to the popularity of retail-investors investing in chosen stocks. 
  
 ## Analysis - Price Performance
  
